@@ -7,7 +7,7 @@ rustc next_combination.rs
 ```
 
 # Usage
-3C5
+5C3
 ```
 ./next_combination
 00111
